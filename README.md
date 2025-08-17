@@ -1,2 +1,2 @@
 # Monkeypox-modeling
-Sample code for modelign and simulating the spread of monkeypox
+Sample code for modeling and simulating the spread of monkeypox
